@@ -16,7 +16,7 @@ Master’s student in **Finance, Actuariat & Data Science** (FSJES Tétouan) —
 - Tools: SPSS, EViews, Excel/VBA.
 
 ## Languages
-- Python • R • VBA • HTML • CSS
+- Python • R • VBA • HTML • CSS • SQL
 
 ## Currently
 - Open to internship opportunities (Data Science / Risk / Fintech).
